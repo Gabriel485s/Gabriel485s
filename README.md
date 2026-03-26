@@ -30,7 +30,7 @@ Sou uma pessoa extremamente interessada por tecnologia, sempre em busca de novos
 </h2>
 
 - Frontend: Html, Css, Boostrap.
-- Backend: Python, Java,
-- DB: Mysql, Postgresql, MongoDB
-- IDE's:  VsCode, NetBeans, IntelliJ
+- Backend: Python, Java.
+- DB: Mysql, Postgresql, MongoDB.
+- IDE's:  VsCode, NetBeans, IntelliJ.
    
