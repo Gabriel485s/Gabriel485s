@@ -1,6 +1,6 @@
 ## 👨‍💻 Gabriel
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor FullStack`**
 <br>
 
 </br>
