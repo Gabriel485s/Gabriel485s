@@ -17,12 +17,7 @@ Sou uma pessoa extremamente interessada por tecnologia, sempre em busca de novos
 </h2>
 
 <div> 
-    <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-    <img align="center" alt="Gabriel-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Gabriel-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Gabriel-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg">
-  
+    <img src="https://skillicons.dev/icons?i=java,python,git,vscode,idea,css,html,mongodb,mysql,postgres&perline=5"/>
 </div>
 
 <br>
@@ -34,6 +29,8 @@ Sou uma pessoa extremamente interessada por tecnologia, sempre em busca de novos
   
 </h2>
 
-- Tecnologias: Python, Java, Mysql, Postgresql, MongoDb
+- Frontend: Html, Css, Boostrap.
+- Backend: Python, Java,
+- DB: Mysql, Postgresql, MongoDB
 - IDE's:  VsCode, NetBeans, IntelliJ
    
